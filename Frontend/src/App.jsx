@@ -14,6 +14,7 @@ import { setOnlineUsers } from './components/redux/chatSlice';
 import { setLikeNotification } from './components/redux/rtnSlice';
 import ProtectedRoutes from './components/ProtectedRoutes';
 
+
 // Define routes
 const browserRouter = createBrowserRouter([
   {
